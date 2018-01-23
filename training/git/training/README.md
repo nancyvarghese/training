@@ -4,6 +4,6 @@
 
 test2
 
-![GitHub Logo](/images/github-octocat.png)
+![GitHub Logo](training/images/github-octocat.png)
 Format: ![Alt Text](url)
 
